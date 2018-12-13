@@ -6,4 +6,5 @@ My first app designed within a month after learning Android App Development. Thi
 Development Tools: PhoneGap, Php, MySQL, jQuery, HTML, CSS, Adobe XD CC
 
 Team Size: 1
+
 Completed in 1 month
